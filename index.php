@@ -2,7 +2,7 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet'>
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-<script type="text/javascript" src="node_modules/crypto-js/crypto-js.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/crypto-js@4.0.0/crypto-js.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,minimum-scale=1">
